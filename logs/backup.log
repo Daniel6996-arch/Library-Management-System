@@ -1,0 +1,24 @@
+mysqldump --single-transaction --quick --lock-tables=false -u _1a197083b5ae2555 -p********** _1a197083b5ae2555 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./current.test/private/backups/20220427_180002-current_test-database.sql.gz
+
+Backup Summary for current.test at 2022-04-27 18:00:02.863129
+Config  : ./current.test/private/backups/20220427_180002-current_test-site_config_backup.json 94.0B
+Database: ./current.test/private/backups/20220427_180002-current_test-database.sql.gz         262.1KiB
+Backup for Site current.test has been successfully completed
+mysqldump --single-transaction --quick --lock-tables=false -u _1a197083b5ae2555 -p********** _1a197083b5ae2555 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./current.test/private/backups/20220428_120002-current_test-database.sql.gz
+
+Backup Summary for current.test at 2022-04-28 12:00:02.812638
+Config  : ./current.test/private/backups/20220428_120002-current_test-site_config_backup.json 94.0B
+Database: ./current.test/private/backups/20220428_120002-current_test-database.sql.gz         263.7KiB
+Backup for Site current.test has been successfully completed
+mysqldump --single-transaction --quick --lock-tables=false -u _1a197083b5ae2555 -p********** _1a197083b5ae2555 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./current.test/private/backups/20220428_180002-current_test-database.sql.gz
+
+Backup Summary for current.test at 2022-04-28 18:00:02.615775
+Config  : ./current.test/private/backups/20220428_180002-current_test-site_config_backup.json 148.0B
+Database: ./current.test/private/backups/20220428_180002-current_test-database.sql.gz         268.6KiB
+Backup for Site current.test has been successfully completed
+mysqldump --single-transaction --quick --lock-tables=false -u _1a197083b5ae2555 -p********** _1a197083b5ae2555 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./current.test/private/backups/20220504_120002-current_test-database.sql.gz
+
+Backup Summary for current.test at 2022-05-04 12:00:03.998475
+Config  : ./current.test/private/backups/20220504_120002-current_test-site_config_backup.json 148.0B
+Database: ./current.test/private/backups/20220504_120002-current_test-database.sql.gz         279.6KiB
+Backup for Site current.test has been successfully completed
