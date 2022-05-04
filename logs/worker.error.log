@@ -8770,3 +8770,543 @@ redis.exceptions.ConnectionError: Connection closed by server.
   if self.get_redis_server_version() >= StrictVersion("4.0.0"):
 /home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
   if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:726: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
+/home/upande/Documents/frappe-bench/env/lib/python3.8/site-packages/rq/job.py:610: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if self.get_redis_server_version() >= StrictVersion("4.0.0"):
